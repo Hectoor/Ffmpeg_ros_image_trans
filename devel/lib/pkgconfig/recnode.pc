@@ -1,0 +1,8 @@
+prefix=/home/hang/happy/test_ffmpeg/FFMPEG_ROS_Image_Trans/devel
+
+Name: recnode
+Description: Description of recnode
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
